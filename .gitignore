@@ -1,0 +1,36 @@
+# Project exclude paths
+/.gradle/
+/Phone Book/task/build/
+/Phone Book/task/out/
+/Phone Book/task/out/production/classes/
+/Topics/BigInteger/Theory/build/
+/Topics/Collectors/The product of squares/out/
+/Topics/Collectors/The product of squares/out/production/classes/
+/Topics/Functional data processing with streams/Print elements of a stream/out/
+/Topics/Functional data processing with streams/Print elements of a stream/out/production/classes/
+/Topics/Generics and Object/Correct the usage of non-generic class/out/
+/Topics/Generics and Object/Correct the usage of non-generic class/out/production/classes/
+/Topics/HashMap/The same pairs/out/
+/Topics/HashMap/The same pairs/out/production/classes/
+/Topics/Infinite streams/Powers of two/out/
+/Topics/Infinite streams/Powers of two/out/production/classes/
+/Topics/Integer types and operations/Reversing/out/
+/Topics/Integer types and operations/Reversing/out/production/classes/
+/Topics/LocalDate/Find all mondays/out/
+/Topics/LocalDate/Find all mondays/out/production/classes/
+/Topics/Optional/Create an Optional value/out/
+/Topics/Optional/Create an Optional value/out/production/classes/
+/Topics/Recursion/Fix the method to print strings in the reverse order/out/
+/Topics/Recursion/Fix the method to print strings in the reverse order/out/production/classes/
+/Topics/Recursion/K-combination/out/
+/Topics/Recursion/K-combination/out/production/classes/
+/Topics/Standard functional interfaces/An infinite numbers supplier/out/
+/Topics/Standard functional interfaces/An infinite numbers supplier/out/production/classes/
+/Topics/Stream filtering/Check if a number is prime/out/
+/Topics/Stream filtering/Check if a number is prime/out/production/classes/
+/Topics/Stream pipelines/The sum of odd numbers/out/
+/Topics/Stream pipelines/The sum of odd numbers/out/production/classes/
+/Topics/The Set interface/Removing elements/out/
+/Topics/The Set interface/Removing elements/out/production/classes/
+/Topics/Unit testing with JUnit/Test driven development/out/
+/Topics/Unit testing with JUnit/Test driven development/out/production/classes/
